@@ -7,3 +7,6 @@ Jupyter notebooks can be a lot of fun but in the same time very useful in the in
 2. **Training - hyperparameter optimisation** A number of popular ML algorithms are available for regression or classification. A ```Classifier``` wrapper class takes care of setting up a grid search for hyperparameters, training the models and providing predictions
 3. **Testing** by cross validation with calculation of error estimates
 4. **Visualisation** of models performance using different metrics and including error estimates
+
+## License
+MIT
